@@ -1,0 +1,25 @@
+--Departamentos de Guatemala 502 SQL:
+INSERT INTO departament (id, name, country_id)
+VALUES
+(1, 'Guatemala',502),
+(2, 'El Progreso',502),
+(3, 'Sacatepéquez',502),
+(4, 'Chimaltenango',502),
+(5, 'Escuintla',502),
+(6, 'Santa Rosa',502),
+(7, 'Sololá',502),
+(8, 'Totonicapán',502),
+(9, 'Quetzaltenango',502),
+(10, 'Suchitepéquez',502),
+(11, 'Retalhuleu',502),
+(12, 'San Marcos',502),
+(13, 'Huehuetenango',502),
+(14, 'Quiché',502),
+(15, 'Baja Verapaz',502),
+(16, 'Alta Verapaz',502),
+(17, 'Petén',502),
+(18, 'Izabal',502),
+(19, 'Zacapa',502),
+(20, 'Chiquimula',502),
+(21, 'Jalapa',502),
+(22, 'Jutiapa',502);
